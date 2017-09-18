@@ -2,7 +2,7 @@
 layout: inner
 title: 'Introduction'
 date: 2017-09-12 9:00:00
-categories: blog development
+categories: introduction
 tags: September
 featured_image: 'https://farm7.staticflickr.com/6010/5931986666_7402a781db_z_d.jpg'
 lead_text: 'Eric Wong - basketball hoop'
