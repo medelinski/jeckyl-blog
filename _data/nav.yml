@@ -1,3 +1,2 @@
 main:
-    - { url: '/', text: 'Blog' }
     - { url: 'http://healinghandsclinic.co/index.html', text: 'My website' }
