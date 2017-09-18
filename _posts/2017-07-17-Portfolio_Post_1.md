@@ -1,11 +1,11 @@
 ---
 layout: inner
-title: 'My First Blog Post'
+title: 'My skills'
 date: 2017-07-17 9:39:34
 categories: blog development
-tags: cute dog
-featured_image: 'https://farm9.staticflickr.com/8818/17112409181_876bba7517_z_d.jpg'
-lead_text: 'm.shattock - Lazing on a sunny afternoon - Golden Doodle Elliott sleeping on the patio chair in the sunshire from flickr'
+tags: skills
+featured_image: 'https://farm4.staticflickr.com/3136/2828246011_5f55a6a06f_z_d.jpg'
+lead_text: 'nigelpepper - code'
 ---
 
-This is my good doggy (a picture that looks just like her). Hanging out.
+Over my years at conestoga I have learned many things. I have learned computer programming, web developing/design & app development. The computer languages that I am proficient in are C#,Java,HTML,CSS,SQL,PHP  & Javascript.Sometimes I like to do my own app developing projects outside of school or make website for people.
