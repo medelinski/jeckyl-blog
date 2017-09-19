@@ -9,3 +9,4 @@ lead_text: 'By Sean Macentee, website is down.'
 ---
 
 When I have free time I like to develope my own projects. The main things that I like to do are apps and websites. Over the summer I made a website for a massage clinic. It is a small clinic and they wanted me to keep the website simple. My goal was to make it as simple as possible for them so their customers could easily get around it. Click the link in the top right corner to view the website.
+My email: medelinski8813@conestogac.on.ca
